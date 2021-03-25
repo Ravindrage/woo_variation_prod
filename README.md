@@ -7,4 +7,6 @@ All variation product should be arrange in first variable and after that all var
 
 Uploaded excel Format is given and data should be In this Format. 
 
+In upload excel Quatity and Pack size are 2 Attributes .
+
 

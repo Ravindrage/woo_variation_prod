@@ -5,6 +5,6 @@ Create variation product excel sheet for uploading in woo commerce .  upload all
 This code will insert data into mysql database . We need to Export table in CSV format and 
 All variation product should be arrange in first variable and after that all variation.
 
-
+Uploaded excel Format is given and data should be In this Format. 
 
 

@@ -1,7 +1,5 @@
 
-gmail / google hangout   : gehlotravindra@gmail.com
-skype   :    ravindragehlot
-mobile  no whatsapp   : +91-63377883257
+
 
 
 # woo_variation_prod
